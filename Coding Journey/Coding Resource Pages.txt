@@ -1,6 +1,0 @@
-
-HTML and languages library:-
-
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
-https://www.w3schools.com/tags/tag_hn.asp
-https://devdocs.io/
